@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+graphene
+starlette-graphene3
+requests
